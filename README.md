@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Thiagomonts/dio_bootcamp_aws/blob/main/github/logo.webp" width="250px"> 
+<img src=".github/logo.webp" width="250px"> 
 </div>
 
 <h1 align="center">Bootcamp Cloud AWS</h1>
@@ -16,13 +16,22 @@
 
 </h3>
 
+## Material de Apoio
+
+- [Material de Apoio](https://github.com/ThiagoMonts/dio_bootcamp_aws/tree/main/material_de_apoio)
+
 
 ## Desafios de Código
 
-- [Desafios de Código](https://github.com/ThiagoMonts/dio_bootcamp_aws/tree/main/desafios)
+- [Desafio 01](https://github.com/ThiagoMonts/dio_bootcamp_aws/tree/main/desafios/desafio01)
+- [Desafio 02](https://github.com/ThiagoMonts/dio_bootcamp_aws/tree/main/desafios/desafio02)
+- [Desafio 03](https://github.com/ThiagoMonts/dio_bootcamp_aws/tree/main/desafios/desafio03)
+- [Desafio 04](https://github.com/ThiagoMonts/dio_bootcamp_aws/tree/main/desafios/desafio04)
+- [Live Coding](https://github.com/ThiagoMonts/dio_bootcamp_aws/tree/main/desafios/live-coding01)
+
 
 
 ## Conclusão do Bootcamp: 06/05/2023
 <div align="center">
-<img src="./github/certificado.jpg" width="250px"> 
+<img src=".github/certificado.jpg" width="100%"> 
 </div>
